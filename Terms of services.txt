@@ -1,15 +1,15 @@
-**Conditions d'utilisation du Bot Discord**
+Conditions d'utilisation du Bot Discord
 
-**Sommaire :**
+►Sommaire :
 
-1. [Objectif du Bot](#1-objectif-du-bot)
-2. [Utilisation du Bot](#2-utilisation-du-bot)
-3. [Collecte et Utilisation des Données](#3-collecte-et-utilisation-des-données)
-4. [Responsabilité](#4-responsabilité)
-5. [Règles de Conduite](#5-règles-de-conduite)
-6. [Modifications des Conditions](#6-modifications-des-conditions)
-7. [Résiliation](#7-résiliation)
-8. [Problèmes Techniques](#8-problèmes-techniques)
+1. Objectif du Bot
+2. Utilisation du Bot
+3. Collecte et Utilisation des Données
+4. Responsabilité
+5. Règles de Conduite
+6. Modifications des Conditions
+7. Résiliation
+8. Problèmes Techniques
 
 ---
 

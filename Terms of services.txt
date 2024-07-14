@@ -13,37 +13,37 @@ Conditions d'utilisation du Bot Discord
 
 ---
 
-### 1. Objectif du Bot
+► 1. Objectif du Bot
 
-1.1. Le bot est conçu pour offrir une meilleure expérience utilisateur sur les serveurs Discord.
+•1.1. Le bot est conçu pour offrir une meilleure expérience utilisateur sur les serveurs Discord.
 
-1.2. Les fonctionnalités du bot incluent, mais ne sont pas limitées à :
+•1.2. Les fonctionnalités du bot incluent, mais ne sont pas limitées à :
 
-1.2.1. Interaction via des commandes dans les salons.
+•1.2.1. Interaction via des commandes dans les salons.
 
-1.2.2. Interaction via des messages privés.
+•1.2.2. Interaction via des messages privés.
 
-1.2.3. Automatisation de tâches courantes.
+•1.2.3. Automatisation de tâches courantes.
 
-1.2.4. Assistance à la modération.
+•1.2.4. Assistance à la modération.
 
-### 2. Utilisation du Bot
+► 2. Utilisation du Bot
 
-2.1. Les utilisateurs peuvent interagir avec le bot en utilisant des commandes spécifiques dans les salons Discord ou via des messages privés.
+•2.1. Les utilisateurs peuvent interagir avec le bot en utilisant des commandes spécifiques dans les salons Discord ou via des messages privés.
 
-2.2. Les administrateurs de serveur doivent :
+•2.2. Les administrateurs de serveur doivent :
 
-2.2.1. Configurer correctement les permissions et les paramètres du bot.
+•2.2.1. Configurer correctement les permissions et les paramètres du bot.
 
-2.2.2. Assurer que le bot a les autorisations nécessaires pour fonctionner correctement.
+•2.2.2. Assurer que le bot a les autorisations nécessaires pour fonctionner correctement.
 
-2.3. Les utilisateurs doivent :
+•2.3. Les utilisateurs doivent :
 
-2.3.1. Utiliser les commandes du bot de manière appropriée.
+•2.3.1. Utiliser les commandes du bot de manière appropriée.
 
-2.3.2. Respecter les directives et les restrictions imposées par les administrateurs du serveur.
+•2.3.2. Respecter les directives et les restrictions imposées par les administrateurs du serveur.
 
-2.3.3. Ne pas tenter de manipuler ou d'abuser du bot.
+•2.3.3. Ne pas tenter de manipuler ou d'abuser du bot.
 
 ### 3. Collecte et Utilisation des Données
 

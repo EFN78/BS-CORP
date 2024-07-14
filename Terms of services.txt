@@ -45,74 +45,74 @@ Conditions d'utilisation du Bot Discord
 
 •2.3.3. Ne pas tenter de manipuler ou d'abuser du bot.
 
-### 3. Collecte et Utilisation des Données
+► 3. Collecte et Utilisation des Données
 
-3.1. Aucune donnée personnelle n'est collectée par le bot.
+•3.1. Aucune donnée personnelle n'est collectée par le bot.
 
-3.2. Les informations générées par les interactions avec le bot (par exemple, les commandes utilisées) sont :
+•3.2. Les informations générées par les interactions avec le bot (par exemple, les commandes utilisées) sont :
 
-3.2.1. Utilisées uniquement pour le fonctionnement interne du bot.
+•3.2.1. Utilisées uniquement pour le fonctionnement interne du bot.
 
-3.2.2. Non partagées avec des tiers.
+•3.2.2. Non partagées avec des tiers.
 
-3.2.3. Stockées temporairement uniquement si nécessaire pour l'exécution des commandes.
+•3.2.3. Stockées temporairement uniquement si nécessaire pour l'exécution des commandes.
 
-### 4. Responsabilité
+► 4. Responsabilité
 
-4.1. En tant que développeur et responsable du bot, j'assume l'entière responsabilité des problèmes survenant en lien avec l'utilisation du bot.
+•4.1. En tant que développeur et responsable du bot, j'assume l'entière responsabilité des problèmes survenant en lien avec l'utilisation du bot.
 
-4.2. Je m'engage à :
+•4.2. Je m'engage à :
 
-4.2.1. Résoudre les dysfonctionnements et problèmes techniques dans les plus brefs délais.
+•4.2.1. Résoudre les dysfonctionnements et problèmes techniques dans les plus brefs délais.
 
-4.2.2. Fournir un support aux utilisateurs en cas de besoin.
+•4.2.2. Fournir un support aux utilisateurs en cas de besoin.
 
-4.2.3. Informer les utilisateurs de toute interruption de service prévue ou imprévue.
+•4.2.3. Informer les utilisateurs de toute interruption de service prévue ou imprévue.
 
-### 5. Règles de Conduite
+► 5. Règles de Conduite
 
-5.1. Les utilisateurs doivent se conformer aux Conditions d'utilisation de Discord lorsqu'ils interagissent avec le bot.
+•5.1. Les utilisateurs doivent se conformer aux Conditions d'utilisation de Discord lorsqu'ils interagissent avec le bot.
 
-5.2. Les comportements suivants sont interdits :
+•5.2. Les comportements suivants sont interdits :
 
-5.2.1. Utilisation abusive des commandes du bot.
+•5.2.1. Utilisation abusive des commandes du bot.
 
-5.2.2. Tentatives de manipulation ou de piratage du bot.
+•5.2.2. Tentatives de manipulation ou de piratage du bot.
 
-5.2.3. Comportements inappropriés, abusifs ou offensants envers le bot ou les autres utilisateurs.
+•5.2.3. Comportements inappropriés, abusifs ou offensants envers le bot ou les autres utilisateurs.
 
-5.3. Toute violation des règles de conduite peut entraîner :
+•5.3. Toute violation des règles de conduite peut entraîner :
 
-5.3.1. Une restriction ou une interdiction d'utilisation du bot.
+•5.3.1. Une restriction ou une interdiction d'utilisation du bot.
 
-5.3.2. Une notification aux administrateurs du serveur pour une action appropriée.
+•5.3.2. Une notification aux administrateurs du serveur pour une action appropriée.
 
-### 6. Modifications des Conditions
+► 6. Modifications des Conditions
 
-6.1. Les conditions d'utilisation peuvent être modifiées en cas de mise à jour majeure du bot.
+•6.1. Les conditions d'utilisation peuvent être modifiées en cas de mise à jour majeure du bot.
 
-6.2. Les utilisateurs seront informés de toute modification des conditions d'utilisation via :
+•6.2. Les utilisateurs seront informés de toute modification des conditions d'utilisation via :
 
-6.2.1. Un message dans le canal approprié.
+•6.2.1. Un message dans le canal approprié.
 
-6.2.2. Un message privé du bot.
+•6.2.2. Un message privé du bot.
 
-6.3. Les modifications entreront en vigueur immédiatement après leur publication.
+•6.3. Les modifications entreront en vigueur immédiatement après leur publication.
 
-### 7. Résiliation
+► 7. Résiliation
 
-7.1. En cas de violation des présentes conditions d'utilisation, l'accès au bot peut être résilié sans préavis.
+•7.1. En cas de violation des présentes conditions d'utilisation, l'accès au bot peut être résilié sans préavis.
 
-7.2. Les utilisateurs peuvent cesser d'utiliser le bot à tout moment sans besoin de notification préalable.
+•7.2. Les utilisateurs peuvent cesser d'utiliser le bot à tout moment sans besoin de notification préalable.
 
-7.3. Les administrateurs de serveur peuvent désactiver le bot à tout moment.
+•7.3. Les administrateurs de serveur peuvent désactiver le bot à tout moment.
 
-### 8. Problèmes Techniques
+► 8. Problèmes Techniques
 
-8.1. En cas de problème technique lié à notre hébergeur ou à des problèmes de développement, je m'engage à :
+•8.1. En cas de problème technique lié à notre hébergeur ou à des problèmes de développement, je m'engage à :
 
-8.1.1. Travailler à la résolution des problèmes le plus rapidement possible.
+•8.1.1. Travailler à la résolution des problèmes le plus rapidement possible.
 
-8.1.2. Informer les utilisateurs des interruptions de service majeures.
+•8.1.2. Informer les utilisateurs des interruptions de service majeures.
 
-8.1.3. Prendre des mesures correctives pour prévenir de futurs problèmes.
+•8.1.3. Prendre des mesures correctives pour prévenir de futurs problèmes.
